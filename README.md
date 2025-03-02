@@ -57,10 +57,6 @@ Aurora Skin Care CLI System is a command-line-based Java application designed to
 - Add a graphical user interface (GUI).
 - Integrate email notifications for appointment confirmations.
 
-## Contributors
-
-- **Your Name** - Developer
-
 ## License
 
 This project is licensed under the MIT License.
